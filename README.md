@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+In some future, I will put some info here. For now, just Hi there 👋
+
 <!--
 **boogi/boogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
